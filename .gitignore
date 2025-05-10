@@ -1,0 +1,42 @@
+# Ignorar diretórios do dataset
+images/
+labels/
+labels2/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Configurações do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.env/
+.venv/
+env/
+venv/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de metadados de IDEs
+.vscode/
+.idea/
+
+# Dataset temporário ou de treino
+dataset/
+data/
+
+# Ignorar diretórios do dataset compactado
+*.zip
+*.tar
+*.tar.gz
