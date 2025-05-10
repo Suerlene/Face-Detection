@@ -1,6 +1,0 @@
-path: C:\Users\su_20\OneDrive\Documentos\Mestrado\Visao computacional\Face detection YOLO
-train: C:\Users\su_20\OneDrive\Documentos\Mestrado\Visao computacional\Face detection YOLO\images\train
-val: C:\Users\su_20\OneDrive\Documentos\Mestrado\Visao computacional\Face detection YOLO\images\val
-
-nc: 1
-names: ['face']
